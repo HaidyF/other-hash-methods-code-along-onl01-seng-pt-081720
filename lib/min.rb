@@ -9,5 +9,5 @@ groceries = {
  }
 
 def get_the_min(groceries)
-alphabetical_orde.min
+alphabetical_order.min
 end
